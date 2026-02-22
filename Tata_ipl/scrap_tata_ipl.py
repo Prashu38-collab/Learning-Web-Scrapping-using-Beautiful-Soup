@@ -47,4 +47,3 @@ df=pd.DataFrame(row1,columns=header1)
 
 df.to_csv('top_buys_2022.csv')
 
-s
